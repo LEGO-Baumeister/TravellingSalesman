@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TSP
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TSP\ here.\r\n\r\n\ @author\ Lukas\ Breuer\r\n\ @version\ 17.01.2022\r\n
+comment1.params=startZiel\ zwischenziel1\ zwischenziel2\ zwischenziel3\ zwischenziel4\ zwischenziel5
+comment1.target=TSP(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=permutations\ startZiel
+comment2.target=double\ calculate(java.util.ArrayList,\ java.lang.String)
+comment3.params=list
+comment3.target=java.util.ArrayList\ generatePerm(java.util.ArrayList)
+comment4.params=startZiel\ zwischenziel1\ zwischenziel2\ zwischenziel3\ zwischenziel4\ zwischenziel5\ distance
+comment4.target=void\ resultOutput(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment5.params=
+comment5.target=void\ createGraph()
+numComments=6
